@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/LiubovShpakova/webpack-starter/issues"
   },
-  "homepage": "https://github.com/LiubovShpakova.github.io/webpack-starter",
+  "homepage": "https://github.com/LiubovShpakova.github.io/goit-js-hw-12-countries",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
