@@ -1,4 +1,3 @@
-// import './styles.css';
 import list from '../templates/list.hbs';
 import information from '../templates/info.hbs';
 import refs from './refs';
